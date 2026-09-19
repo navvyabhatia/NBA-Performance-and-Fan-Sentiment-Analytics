@@ -100,14 +100,14 @@ Teams Predicted within 5 Wins: 21 of 30
 The model demonstrated a strong relationship between predicted and actual wins. The most accurate prediction was for the Charlotte Hornets, with an error of only 0.06 wins. The Los Angeles Lakers and Oklahoma City Thunder were also predicted within one win of their actual results.
 
 # Key Findings
-1. Winning alone did not fully explain fan sentiment or online engagement.
-2. Los Angeles Lakers and Toronto Raptors combined strong performance with highly positive sentiment.
-3. Milwaukee Bucks and Los Angeles Clippers achieved high win totals but received lower sentiment than several other successful teams.
-4. Orlando Magic generated strong positive sentiment despite fewer wins than top-ranked teams.
-5. Miami Heat recorded the highest tweet volume, showing that engagement does not always reflect positive sentiment.
-6. Historical statistics provided a strong foundation for predicting season win totals.
-7. Prediction errors increased for teams affected by injuries, roster changes, and disruptions during 2020.
-8. Higher scoring generally aligned with stronger performance, while defense, efficiency, and team balance also influenced success.
+- Winning alone did not fully explain fan sentiment or online engagement.
+- Los Angeles Lakers and Toronto Raptors combined strong performance with highly positive sentiment.
+- Milwaukee Bucks and Los Angeles Clippers achieved high win totals but received lower sentiment than several other successful teams.
+- Orlando Magic generated strong positive sentiment despite fewer wins than top-ranked teams.
+- Miami Heat recorded the highest tweet volume, showing that engagement does not always reflect positive sentiment.
+- Historical statistics provided a strong foundation for predicting season win totals.
+- Prediction errors increased for teams affected by injuries, roster changes, and disruptions during 2020.
+- Higher scoring generally aligned with stronger performance, while defense, efficiency, and team balance also influenced success.
 
 # Recommendations
 - NBA teams should evaluate fan sentiment and engagement alongside performance. Winning alone does not fully explain fan behavior because team identity, star players, expectations, and market size also influence reactions.
