@@ -39,15 +39,26 @@ The original Twitter data contained 116,825 records collected from approximately
 - Storytelling
 
 # Repository Structure 
+```text
 NBA-Performance-and-Fan-Sentiment-Analytics/
+│
 ├── README.md
-├── Final Graphs + Dashboard1 + Dashboard2.twbx
-├── ISBA 2412 Final Project Plan.pdf
-└── data/
-    ├── nba_team_stats_00_to_23.csv
-    ├── teams.csv
-    ├── tableau_clean_start_scatter_lod.csv
-    └── nba_prediction_results_tableau.csv
+│
+├── dashboards/
+│   └── NBA-Performance-Fan-Sentiment-Dashboards.twbx
+│
+├── reports/
+│   └── ISBA-2412-Final-Project-Plan.pdf
+│
+├── data/
+│   ├── raw/
+│   │   ├── nba_team_stats_00_to_23.csv
+│   │   └── teams.csv
+│   │
+│   └── processed/
+│       ├── tableau_clean_start_scatter_lod.csv
+│       └── nba_prediction_results_tableau.csv
+```
 
 # Key Variables for Team Performance + Fan Sentiment and Engagement
 Team Performance:
